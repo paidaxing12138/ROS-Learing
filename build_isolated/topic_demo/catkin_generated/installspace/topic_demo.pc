@@ -1,0 +1,8 @@
+prefix=/media/hu/new/UbuntuCode/Ros/temp_ws/install_isolated
+
+Name: topic_demo
+Description: Description of topic_demo
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

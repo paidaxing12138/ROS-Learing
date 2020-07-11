@@ -1,0 +1,8 @@
+prefix=/media/hu/new/UbuntuCode/Ros/temp_ws/devel
+
+Name: service_demo
+Description: Description of service_demo
+Version: 0.0.0
+Cflags: -I/media/hu/new/UbuntuCode/Ros/temp_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

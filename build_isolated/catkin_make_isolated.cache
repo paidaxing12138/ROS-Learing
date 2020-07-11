@@ -1,0 +1,2 @@
+topic_demo
+-DCMAKE_BUILD_TYPE=Debug -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/media/hu/new/UbuntuCode/Ros/temp_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/media/hu/new/UbuntuCode/Ros/temp_ws/install_isolated
